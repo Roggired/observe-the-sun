@@ -5,7 +5,7 @@ package ru.yofik.observe.the.sun;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello World! Observe the Sun";
     }
 
     public static void main(String[] args) {
